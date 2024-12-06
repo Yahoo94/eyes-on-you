@@ -1,0 +1,15 @@
+{
+  "email_address": "123123123@qq.com",
+  "email_smtp_secret": "aaaabbbccdas",
+  "smtp_server": "smtp.qq.com",
+  "smtp_port": 465,
+  "email_receiver": ["123333333@qq.com"],
+
+  "common_interval":5,
+  "common_save":false,
+
+  "weibo_targets": ["6100866159","6391198952"],
+  "weibo_interval": 0.3,
+  "weibo_save": true
+
+}
